@@ -6,22 +6,26 @@ Wordwall Δραστηριότητα:  Διαδραστική Άσκηση Αντ
 Αυτός ο Ανοικτός Εκπαιδευτικός Πόρος (OER) περιλαμβάνει μια διαδραστική άσκηση αντιστοίχισης που δημιουργήθηκε με το Wordwall για την εμπέδωση βασικών εννοιών της γλωσσολογίας. Οι φοιτητές καλούνται να αντιστοιχίσουν 20 γλωσσολογικούς όρους με τους αντίστοιχους ορισμούς τους.
 Σκοπός
 Στόχος αυτής της δραστηριότητας είναι να βοηθήσει τους φοιτητές να κατανοήσουν και να εμπεδώσουν τους βασικούς όρους και έννοιες της γλωσσολογίας, ενισχύοντας την ενεργή μάθηση μέσα από τη διαδραστική πλατφόρμα του Wordwall.
+
 Γνωστικό Αντικείμενο: Γλωσσολογία
 Βαθμίδα Εκπαίδευσης: Τριτοβάθμια Εκπαίδευση
-Άδεια Χρήσης:
-Αυτό το OER διατίθεται με άδεια Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
-Πώς να παίξετε: Ακολουθήστε αυτόν τον σύνδεσμο για να αποκτήσετε πρόσβαση στη δραστηριότητα Wordwall: https://wordwall.net/resource/73908983
+
+
+Πώς να παίξετε: Ακολουθήστε αυτόν τον σύνδεσμο για να αποκτήσετε πρόσβαση στη δραστηριότητα Wordwall: https://wordwall.net/resource/73908983/linguistic-terminology-match-up
 <iframe style="max-width:100%" src="https://wordwall.net/embed/a7ca0a4591d94542ba6ae6eccd481911?themeId=1&templateId=3&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+
 Οδηγίες
 1.	Ανοίξτε τον σύνδεσμο της δραστηριότητας στο Wordwall.
 2.	Σύρετε και αφήστε κάθε όρο πάνω στον αντίστοιχο ορισμό του.
 3.	Ελέγξτε τις απαντήσεις σας και προσπαθήστε ξανά αν χρειαστεί
-Άδεια: H δραστηριότητα διατίθεται με άδεια Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+
+Άδεια Χρήσης:
+Αυτό το OER διατίθεται με άδεια Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
 # Interactive Linguistics Terminology Match-Up
 
 ## English
 
-An interactive educational activity for mastering linguistic terminology through a matching exercise.
+An interactive educational activity for mastering linguistic terminology through a matching exercise: https://wordwall.net/resource/73908983/linguistic-terminology-match-up
 
  Purpose
 
