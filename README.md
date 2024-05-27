@@ -1,6 +1,7 @@
 # Linguistics-Learning-Resources
 Introduction to linguistics: Key Terms, active learning for linguistics students
-Ελληνικά
+
+## Ελληνικά
 Wordwall Δραστηριότητα:  Διαδραστική Άσκηση Αντιστοίχισης Ορολογίας Γλωσσολογίας (στην Αγγλική Γλώσσα)
 Αυτός ο Ανοικτός Εκπαιδευτικός Πόρος (OER) περιλαμβάνει μια διαδραστική άσκηση αντιστοίχισης που δημιουργήθηκε με το Wordwall για την εμπέδωση βασικών εννοιών της γλωσσολογίας. Οι φοιτητές καλούνται να αντιστοιχίσουν 20 γλωσσολογικούς όρους με τους αντίστοιχους ορισμούς τους.
 Σκοπός
@@ -22,28 +23,28 @@ Wordwall Δραστηριότητα:  Διαδραστική Άσκηση Αντ
 
 An interactive educational activity for mastering linguistic terminology through a matching exercise.
 
-## Purpose
+ Purpose
 
 The purpose of this activity is to help students understand and internalize the basic terms and concepts of linguistics, promoting active learning through the interactive Wordwall platform.
 
-## Instructions
+Instructions
 
 1. Open the Wordwall activity link.
 2. Drag and drop each term onto its matching definition.
 3. Check your answers and try again if needed.
 
-## Subject Area
+Subject Area
 
 Linguistics
 
-## Educational Level
+ Educational Level
 
 Tertiary Education
 
-## License
+License
 
 This OER is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
-## Keywords
+Keywords
 
 Linguistics, terminology, phonetics, phonology, morphology, syntax, semantics, pragmatics, linguistic competence, linguistic performance, Wordwall, interactive exercise.
